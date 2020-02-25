@@ -2,8 +2,7 @@
 
 Drive an ILI9341 based LCD (badly) from an original Gameboy using an STM32
 
-Uses the [Adafruit ILI9341 library](https://github.com/adafruit/Adafruit_ILI9341)
-
+Uses [this code](https://bitbucket.org/dimtass/stm32f103-ili9341-dma/src/master/) as a base.
 
 ## License
 
